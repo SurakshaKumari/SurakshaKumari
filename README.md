@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suraksha</h1>
 <h3 align="center">I am highly motivated and energetic Computer Science graduate who believes in learning. I can effortlessly and rather skillfully solve real-life problems and apply techniques from various disciplines to development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surakshakumari&label=Profile%20views&color=0e75b6&style=flat" alt="surakshakumari" /> </p>
-
 - 🔭 I’m currently working on **Flutter Project (FYP)**
 
 - 🌱 I’m currently learning **Blockchain**
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suraksha kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraksha kumari" height="30" width="40" /></a>
