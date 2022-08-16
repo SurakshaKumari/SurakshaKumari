@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suraksha</h1>
 <h3 align="center">I am highly motivated and energetic Computer Science graduate who believes in learning. I can effortlessly and rather skillfully solve real-life problems and apply techniques from various disciplines to development.</h3>
 <div align="center">
-- 🔭 I’m currently working on **Flutter Project (FYP)**
+- 🔭 I’m currently working on Flutter Project (FYP)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning Blockchain
 
 - 📫 Reach me at: **surakshakumari.bcsf18@iba-suk.edu.pk**
 
