@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraksha</h1>
-<h3 align="center">I am highly motivated and energetic Computer Science graduate who believes in learning.</h3>
+<h3 align="center">I am highly motivated and energetic Computer Science graduate who believes in learning.  I can effortlessly and rather skillfully solve real-life problems and apply techniques from various disciplines to development.</h3>
 
 - 🔭 I’m currently working on **Flutter Project (FYP)**
 
