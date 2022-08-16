@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suraksha</h1>
 <h3 align="center">I am highly motivated and energetic Computer Science graduate who believes in learning.  I can effortlessly and rather skillfully solve real-life problems and apply techniques from various disciplines to development.</h3>
 <hr>
-- 🔭 I’m currently working on **Flutter Project (FYP)**
 - <h1 align="center">My Skills</h1>
+- <h4 align="center">🔭 I’m currently working on **Flutter Project (FYP)** </h4>
+
 
 <h3 align="left">Reach me at:</h3>
 <p align="left">
