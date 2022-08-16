@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraksha</h1>
 <h3 align="center">I am highly motivated and energetic Computer Science graduate who believes in learning.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surakshakumari" alt="surakshakumari" /></a> </p>
-
 - 🔭 I’m currently working on **Flutter Project (FYP)**
 
 - 🌱 I’m currently learning **Flutter| Android| MERN Stack| Java| C++| Visual Programming C#| Html5 CSS JS JQuery| Git- Github| Mysql/PostgreSql/MongoDB**
