@@ -2,7 +2,7 @@
 <h3 align="center">I am highly motivated and energetic Computer Science graduate who believes in learning. I can effortlessly and rather skillfully solve real-life problems and apply techniques from various disciplines to development.</h3>
 <hr>
 <div align="center">
-- 🔭 I’m currently working on development of Mizaj Store website.
+- 🔭 I’m currently working on development of Tracking App.
 
 - 📫 Reach me at: **surakshakumari.bcsf18@iba-suk.edu.pk**
 
